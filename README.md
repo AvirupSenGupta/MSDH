@@ -1,4 +1,4 @@
-## Name of software: MERRA Spatial Downscaling for Hydrology (MSDH)
+## MERRA Spatial Downscaling for Hydrology (MSDH)
 * Description: an R based tool to downscale globally available Modern Era Retrospective-Analysis for Research and Applications (MERRA) temperature, precipitation, wind speed, relative humidity, incoming shortwave and longwave radiation data to overcome data scarcity for hydrological analysis and modeling.
 
 ### Software Information ###
