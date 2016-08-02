@@ -51,10 +51,10 @@ If you wish to use or incorporate this program (or parts of it) into
 other software that does not meet the GNU General Public License 
 conditions contact the author to request permission.
 
-Avirup Sen Gupta
-Scientist, Research and Modeling 
-AIR Worldwide
-131 Dartmouth Street
-Boston, MA 02116
-Email: avirup.sengupta@aggiemail.usu.edu
+Avirup Sen gupta  
+Scientist, Research and Modeling      
+AIR Worldwide            
+131 Dartmouth Street            
+Boston, MA 02116        
+email:  avirup.sengupta@aggiemail.usu.edu     
 https://www.linkedin.com/in/hydrologist
