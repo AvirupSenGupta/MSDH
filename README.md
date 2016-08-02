@@ -52,7 +52,7 @@ other software that does not meet the GNU General Public License
 conditions contact the author to request permission.
 
 Avirup Sen Gupta
-Scientist, Research and Modeling
+Scientist, Research and Modeling 
 AIR Worldwide
 131 Dartmouth Street
 Boston, MA 02116
